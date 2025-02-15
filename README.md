@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on project focused on Gesture Recognition.<br>Learning Artificial Integillence and Machine Learning.
+Currently working on project focused on Alzheimer disease detection.<br>Learning Artificial Integillence and Machine Learning.
 
 
 # 💻 Tech Stack:
